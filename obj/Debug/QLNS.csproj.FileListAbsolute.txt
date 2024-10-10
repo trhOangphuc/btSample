@@ -1,0 +1,12 @@
+D:\.net\QLNS\bin\Debug\QLNS.exe.config
+D:\.net\QLNS\bin\Debug\QLNS.exe
+D:\.net\QLNS\bin\Debug\QLNS.pdb
+D:\.net\QLNS\bin\Debug\Guna.UI2.dll
+D:\.net\QLNS\obj\Debug\QLNS.csproj.AssemblyReference.cache
+D:\.net\QLNS\obj\Debug\QLNS.Form1.resources
+D:\.net\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\.net\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+D:\.net\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+D:\.net\QLNS\obj\Debug\QLNS.csproj.Up2Date
+D:\.net\QLNS\obj\Debug\QLNS.exe
+D:\.net\QLNS\obj\Debug\QLNS.pdb
